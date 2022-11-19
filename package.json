@@ -23,5 +23,8 @@
   },
   "volta": {
     "node": "16.18.1"
+  },
+  "devDependencies": {
+    "push-dir": "^0.4.1"
   }
 }
