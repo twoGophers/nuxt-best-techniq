@@ -55,7 +55,7 @@
 </template>
 
 <script>
-import Promo from '../promo/Promo.vue';
+import Promo from '../promo/Promo.vue';;
 
 export default {
     components: { Promo },
